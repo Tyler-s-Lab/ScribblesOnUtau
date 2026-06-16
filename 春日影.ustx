@@ -3456,7 +3456,8 @@ voice_parts:
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 109}
     phoneme_overrides: []
   - position: 3600
     duration: 240
@@ -3470,7 +3471,8 @@ voice_parts:
       - {x: 42.525772, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 145}
     phoneme_overrides: []
   - position: 3840
     duration: 240
@@ -3483,7 +3485,8 @@ voice_parts:
       - {x: 11.597939, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 160}
     phoneme_overrides: []
   - position: 4200
     duration: 120
@@ -3496,7 +3499,8 @@ voice_parts:
       - {x: 42.525772, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 145}
     phoneme_overrides: []
   - position: 4320
     duration: 240
@@ -3510,7 +3514,8 @@ voice_parts:
       - {x: 88.91753, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 160}
     phoneme_overrides: []
   - position: 4560
     duration: 240
@@ -3524,7 +3529,8 @@ voice_parts:
       - {x: 73.453606, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 141}
     phoneme_overrides: []
   - position: 4800
     duration: 240
@@ -3537,7 +3543,8 @@ voice_parts:
       - {x: 27.061855, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 124}
     phoneme_overrides: []
   - position: 5040
     duration: 390
@@ -3550,7 +3557,8 @@ voice_parts:
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 109}
     phoneme_overrides: []
   - position: 5430
     duration: 30
@@ -3576,7 +3584,8 @@ voice_parts:
       - {x: 16.752577, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 102}
     phoneme_overrides: []
   - position: 5640
     duration: 120
@@ -3589,7 +3598,8 @@ voice_parts:
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
-    phoneme_expressions: []
+    phoneme_expressions:
+    - {index: 0, abbr: vol, value: 97}
     phoneme_overrides: []
   - position: 5760
     duration: 240
