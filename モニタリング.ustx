@@ -221,8 +221,8 @@ exp_selectors:
 - dec
 - gen
 - bre
-exp_primary: 2
-exp_secondary: 0
+exp_primary: 0
+exp_secondary: 4
 key: 5
 time_signatures:
 - bar_position: 0
@@ -308,6 +308,25 @@ tracks:
   - 囁き - Whisper
   - 弱 - Weak
   - 滑らか - Smooth
+- singer: 重音テト OU用日本語統合ライブラリー
+  phonemizer: OpenUtau.Plugin.Builtin.JapanesePresampPhonemizer
+  renderer_settings:
+    renderer: WORLDLINE-R
+  track_name: Track8
+  track_color: Blue
+  mute: false
+  solo: false
+  volume: -16.53658536585366
+  pan: 0
+  track_expressions: []
+  voice_color_names:
+  - ""
+  - エッジ - Vocal fry
+  - 力み - Strain
+  - 叫び - Shout
+  - 囁き - Whisper
+  - 弱 - Weak
+  - 滑らか - Smooth
 - phonemizer: OpenUtau.Core.DefaultPhonemizer
   renderer_settings: {}
   track_name: Track5
@@ -326,6 +345,17 @@ tracks:
   mute: false
   solo: false
   volume: -7
+  pan: 0
+  track_expressions: []
+  voice_color_names:
+  - ""
+- phonemizer: OpenUtau.Core.DefaultPhonemizer
+  renderer_settings: {}
+  track_name: Track7
+  track_color: Blue
+  mute: true
+  solo: false
+  volume: -1
   pan: 0
   track_expressions: []
   voice_color_names:
@@ -6213,8 +6243,8 @@ voice_parts:
     lyric: て
     pitch:
       data:
-      - {x: -40, y: -70, shape: io}
-      - {x: 40, y: 0, shape: io}
+      - {x: -90.90909, y: -70, shape: io}
+      - {x: 6.628788, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -7219,7 +7249,7 @@ voice_parts:
   notes:
   - position: 240
     duration: 120
-    tone: 62
+    tone: 58
     lyric: い
     pitch:
       data:
@@ -7231,11 +7261,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 360
     duration: 120
-    tone: 60
+    tone: 58
     lyric: つ
     pitch:
       data:
-      - {x: -40, y: 20, shape: io}
+      - {x: -40, y: 0, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -7247,7 +7277,7 @@ voice_parts:
     lyric: も
     pitch:
       data:
-      - {x: -40, y: 20, shape: io}
+      - {x: -40, y: 0, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -7496,7 +7526,7 @@ voice_parts:
   - position: 6240
     duration: 160
     tone: 69
-    lyric: よ
+    lyric: や
     pitch:
       data:
       - {x: -40, y: -10, shape: io}
@@ -7508,7 +7538,7 @@ voice_parts:
   - position: 6400
     duration: 160
     tone: 68
-    lyric: o
+    lyric: a
     pitch:
       data:
       - {x: -40, y: 10, shape: io}
@@ -12194,10 +12224,106 @@ voice_parts:
     phoneme_expressions: []
     phoneme_overrides: []
   curves: []
+- duration: 7680
+  name: New Part
+  comment: ""
+  track_no: 4
+  position: 169920
+  notes:
+  - position: 240
+    duration: 720
+    tone: 70
+    lyric: a
+    pitch:
+      data:
+      - {x: -40, y: 0, shape: io}
+      - {x: -40, y: -107.4258, shape: io}
+      - {x: 15.151515, y: 6.545753, shape: io}
+      - {x: 40, y: 0, shape: io}
+      snap_first: true
+    vibrato: {length: 94.861115, period: 103.219696, depth: 14.877319, in: 46.412884, out: 10, shift: 0, drift: 0, vol_link: 0}
+    phoneme_expressions: []
+    phoneme_overrides: []
+  - position: 960
+    duration: 3840
+    tone: 69
+    lyric: a
+    pitch:
+      data:
+      - {x: -57.765152, y: 10, shape: io}
+      - {x: -12.310606, y: -20.0769, shape: io}
+      - {x: 17.992424, y: 6.2480516, shape: io}
+      - {x: 46.401516, y: -3.0431077, shape: io}
+      - {x: 82.38636, y: 0.053945445, shape: io}
+      - {x: 3116.4773, y: -0.25575987, shape: io}
+      - {x: 3875, y: -141.48138, shape: io}
+      - {x: 4286.9316, y: 0, shape: io}
+      snap_first: true
+    vibrato: {length: 95.28646, period: 152.46213, depth: 5, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
+    phoneme_expressions: []
+    phoneme_overrides: []
+  curves:
+  - xs:
+    - 4075
+    - 4080
+    - 4110
+    - 4130
+    - 4140
+    - 4155
+    - 4195
+    - 4215
+    - 4235
+    - 4260
+    - 4275
+    - 4300
+    - 4325
+    - 4375
+    - 4410
+    - 4445
+    - 4530
+    - 4570
+    - 4615
+    - 4700
+    - 4735
+    - 4765
+    - 4795
+    - 4815
+    - 4830
+    - 5225
+    - 5230
+    ys:
+    - 0
+    - 3
+    - 3
+    - -8
+    - -8
+    - -14
+    - -25
+    - -27
+    - -35
+    - -38
+    - -46
+    - -52
+    - -63
+    - -79
+    - -87
+    - -101
+    - -120
+    - -131
+    - -145
+    - -164
+    - -177
+    - -196
+    - -210
+    - -224
+    - -240
+    - -240
+    - 0
+    abbr: dyn
 wave_parts:
 - name: 01_01_モニタリング.flac
   comment: ""
-  track_no: 4
+  track_no: 5
   position: 780
   relative_path: ..\UtauReference\01_01_モニタリング.flac
   file_duration_ms: 176796.7346
@@ -12205,9 +12331,17 @@ wave_parts:
   trim_ms: 0
 - name: 01_02_モニタリング -Instrumental-.flac
   comment: ""
-  track_no: 5
-  position: 780
+  track_no: 6
+  position: 782
   relative_path: ..\UtauReference\01_02_モニタリング -Instrumental-.flac
   file_duration_ms: 176613.3333
+  skip_ms: 0
+  trim_ms: 0
+- name: 01_01_モニタリング-vocal.flac
+  comment: ""
+  track_no: 7
+  position: 780
+  relative_path: ..\UtauReference\01_01_モニタリング-vocal.flac
+  file_duration_ms: 176750.2947
   skip_ms: 0
   trim_ms: 0
