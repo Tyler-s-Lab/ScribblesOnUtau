@@ -504,7 +504,7 @@ voice_parts:
   - position: 2280
     duration: 120
     tone: 62
-    lyric: う
+    lyric: お
     pitch:
       data:
       - {x: -40, y: -20, shape: io}
