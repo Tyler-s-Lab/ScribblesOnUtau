@@ -221,8 +221,8 @@ exp_selectors:
 - dec
 - gen
 - bre
-exp_primary: 5
-exp_secondary: 6
+exp_primary: 0
+exp_secondary: 5
 key: 2
 time_signatures:
 - bar_position: 0
@@ -918,9 +918,12 @@ voice_parts:
     pitch:
       data:
       - {x: -107.954544, y: -40, shape: io}
-      - {x: -17.045454, y: 9.062061, shape: io}
-      - {x: 4.2613635, y: -3.1927037, shape: io}
-      - {x: 95.170456, y: 0, shape: io}
+      - {x: -55.397728, y: -4.1303663, shape: io}
+      - {x: 4.2613635, y: -7.144448, shape: io}
+      - {x: 78.125, y: -0.29426205, shape: io}
+      - {x: 137.78409, y: -1.1162844, shape: io}
+      - {x: 170.45454, y: 14.228132, shape: io}
+      - {x: 198.86363, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -931,7 +934,7 @@ voice_parts:
     lyric: っ
     pitch:
       data:
-      - {x: -59.659092, y: 0, shape: io}
+      - {x: -28.40909, y: 0, shape: io}
       - {x: -12.784091, y: 3.3265543, shape: io}
       - {x: 86.64773, y: 0, shape: io}
       snap_first: true
@@ -1211,7 +1214,7 @@ voice_parts:
       data:
       - {x: -157.67046, y: 20, shape: io}
       - {x: -35.511364, y: -2.6314652, shape: io}
-      - {x: 40, y: 0, shape: io}
+      - {x: 26.988636, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -1222,8 +1225,9 @@ voice_parts:
     lyric: ら
     pitch:
       data:
-      - {x: -125, y: 0, shape: io}
-      - {x: -44.034092, y: 0.83929574, shape: io}
+      - {x: -207.38637, y: 0, shape: io}
+      - {x: -174.71591, y: -2.4888644, shape: io}
+      - {x: -41.19318, y: -1.3928345, shape: io}
       - {x: 17.045454, y: -0.17624158, shape: io}
       - {x: 285.51135, y: -0.19008277, shape: io}
       - {x: 433.23865, y: -76.62431, shape: io}
@@ -1411,9 +1415,10 @@ voice_parts:
     pitch:
       data:
       - {x: -88.068184, y: -20, shape: io}
-      - {x: -46.875, y: 3.6304352, shape: io}
-      - {x: -1.4204545, y: -0.9306255, shape: io}
-      - {x: 63.920456, y: 0, shape: io}
+      - {x: -48.295456, y: -14.675838, shape: io}
+      - {x: 75.28409, y: -18.237934, shape: io}
+      - {x: 144.88637, y: 0.3945707, shape: io}
+      - {x: 196.02272, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -1745,6 +1750,7 @@ voice_parts:
       data:
       - {x: -73.86364, y: 0, shape: io}
       - {x: -24.147728, y: 16.708893, shape: io}
+      - {x: -24.147728, y: -6.3249683, shape: io}
       - {x: 31.25, y: -1.9236126, shape: io}
       - {x: 142.04546, y: -0.011837121, shape: io}
       - {x: 289.77274, y: -0.011837121, shape: io}
@@ -2094,9 +2100,9 @@ voice_parts:
     pitch:
       data:
       - {x: -105.11364, y: -90, shape: io}
-      - {x: -24.147728, y: -18.14101, shape: io}
-      - {x: 51.136364, y: -20.7574, shape: io}
-      - {x: 102.27273, y: 1.8456631, shape: io}
+      - {x: -4.2613635, y: -17.41337, shape: io}
+      - {x: 99.431816, y: -21.79749, shape: io}
+      - {x: 139.20454, y: 1.7671506, shape: io}
       - {x: 188.92046, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -2332,8 +2338,8 @@ voice_parts:
       - {x: -339.48865, y: 0, shape: io}
       - {x: -146.30682, y: -6.0786724, shape: io}
       - {x: -66.76136, y: 36.021427, shape: io}
-      - {x: -32.670456, y: -10.835746, shape: io}
-      - {x: 1.4204545, y: 1.5326453, shape: io}
+      - {x: -15.625, y: -14.268641, shape: io}
+      - {x: 5.681818, y: 4.6378717, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -2346,8 +2352,8 @@ voice_parts:
     pitch:
       data:
       - {x: -207.38637, y: 20, shape: io}
-      - {x: -144.88637, y: -5.34482, shape: io}
-      - {x: -89.48864, y: 0, shape: io}
+      - {x: -136.36363, y: -3.5848942, shape: io}
+      - {x: -44.034092, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -2453,8 +2459,8 @@ voice_parts:
     pitch:
       data:
       - {x: -230.11363, y: 20, shape: io}
-      - {x: -136.36363, y: 20.867529, shape: io}
-      - {x: -71.02273, y: -2.477904, shape: io}
+      - {x: -143.46591, y: 20.253754, shape: io}
+      - {x: -83.806816, y: -2.7628717, shape: io}
       - {x: -8.522727, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -5931,9 +5937,9 @@ voice_parts:
     pitch:
       data:
       - {x: -102.27273, y: -20, shape: io}
-      - {x: -39.772728, y: 0.86752945, shape: io}
-      - {x: 62.5, y: -1.0250578, shape: io}
-      - {x: 191.76137, y: -0.44770622, shape: io}
+      - {x: -19.886364, y: -18.104746, shape: io}
+      - {x: 100.85227, y: -21.94085, shape: io}
+      - {x: 167.61363, y: 1.0757751, shape: io}
       - {x: 292.61365, y: -1.105324, shape: io}
       - {x: 380.68182, y: -54.372368, shape: io}
       - {x: 487.2159, y: 0, shape: io}
@@ -6262,9 +6268,10 @@ voice_parts:
     pitch:
       data:
       - {x: -247.15909, y: 0, shape: io}
-      - {x: -96.59091, y: -84.79872, shape: io}
-      - {x: 26.988636, y: 2.8836544, shape: io}
-      - {x: 93.75, y: -0.28330177, shape: io}
+      - {x: -181.81818, y: -46.053505, shape: io}
+      - {x: -83.806816, y: 94.786316, shape: io}
+      - {x: 15.625, y: -4.9523883, shape: io}
+      - {x: 59.659092, y: -0.29426205, shape: io}
       - {x: 382.10226, y: 0.37431607, shape: io}
       - {x: 465.9091, y: -109.44786, shape: io}
       - {x: 497.1591, y: 0, shape: io}
@@ -7400,8 +7407,8 @@ voice_parts:
       data:
       - {x: -82.38636, y: -10, shape: io}
       - {x: -9.943182, y: -9.180916, shape: io}
-      - {x: 25.568182, y: -10.13233, shape: io}
-      - {x: 82.38636, y: 1.2846462, shape: io}
+      - {x: 48.295456, y: -10.294262, shape: io}
+      - {x: 106.53409, y: 2.31008, shape: io}
       - {x: 123.579544, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -7612,8 +7619,8 @@ voice_parts:
     lyric: れ
     pitch:
       data:
-      - {x: -110.795456, y: 90, shape: io}
-      - {x: -41.19318, y: -15.358796, shape: io}
+      - {x: -177.55682, y: 90, shape: io}
+      - {x: -72.443184, y: -14.547734, shape: io}
       - {x: 19.886364, y: 2.3968856, shape: io}
       - {x: 56.81818, y: 0, shape: io}
       snap_first: true
@@ -7641,11 +7648,10 @@ voice_parts:
       data:
       - {x: -154.82954, y: -90, shape: io}
       - {x: -93.75, y: 11.828552, shape: io}
-      - {x: -55.397728, y: -7.4375954, shape: io}
-      - {x: -12.784091, y: 2.0765517, shape: io}
-      - {x: 32.670456, y: 0, shape: io}
+      - {x: 8.522727, y: -6.72708, shape: io}
+      - {x: 52.55682, y: 0, shape: io}
       snap_first: true
-    vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
+    vibrato: {length: 92.85714, period: 140.625, depth: 9.162521, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
     phoneme_overrides: []
   - position: 2520
@@ -7654,9 +7660,11 @@ voice_parts:
     lyric: な
     pitch:
       data:
-      - {x: -112.21591, y: 0, shape: io}
-      - {x: -42.613636, y: 2.552259, shape: io}
-      - {x: 40, y: 0, shape: io}
+      - {x: -75.28409, y: 0, shape: io}
+      - {x: -32.670456, y: -25.085579, shape: io}
+      - {x: -26.988636, y: 21.221678, shape: io}
+      - {x: 11.363636, y: -5.357043, shape: io}
+      - {x: 31.25, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 97.1875, period: 224.43182, depth: 5, in: 19.721329, out: 25.40193, shift: 0, drift: 0, vol_link: 0}
     phoneme_expressions: []
@@ -7668,10 +7676,9 @@ voice_parts:
     pitch:
       data:
       - {x: -53.977272, y: 20, shape: io}
-      - {x: 35.511364, y: -14.993687, shape: io}
-      - {x: 80.96591, y: -8.058712, shape: io}
-      - {x: 122.15909, y: -10.719171, shape: io}
-      - {x: 166.19318, y: 1.1479377, shape: io}
+      - {x: -2.840909, y: -19.607971, shape: io}
+      - {x: 48.295456, y: -13.305801, shape: io}
+      - {x: 103.693184, y: -16.593891, shape: io}
       - {x: 250, y: -0.52609426, shape: io}
       - {x: 617.8977, y: -0.19728535, shape: io}
       - {x: 747.1591, y: -84.70118, shape: io}
@@ -7705,7 +7712,7 @@ voice_parts:
       - {x: -26.988636, y: -6.435453, shape: io}
       - {x: 31.25, y: 0.25654408, shape: io}
       - {x: 1271.3068, y: 0.24405858, shape: io}
-      - {x: 1485.7954, y: -94.99145, shape: io}
+      - {x: 1468.75, y: -98.114914, shape: io}
       - {x: 1525.5682, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 79.895836, period: 193.18182, depth: 10.35347, in: 23.859192, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -7717,62 +7724,68 @@ voice_parts:
     - 5125
     - 5130
     - 5140
-    - 5145
-    - 5160
+    - 5150
+    - 5155
     - 5165
-    - 5175
-    - 5180
-    - 5190
+    - 5170
+    - 5185
     - 5195
+    - 5200
     - 5205
     - 5210
     - 5215
-    - 5220
+    - 5230
+    - 5235
     - 5240
-    - 5245
-    - 5250
     - 5255
+    - 5265
     - 5270
-    - 5275
+    - 5280
     - 5285
-    - 5295
+    - 5290
+    - 5305
     - 5310
-    - 5320
-    - 5335
+    - 5315
+    - 5325
     - 5340
-    - 5345
-    - 5355
-    - 5360
+    - 5350
+    - 5365
+    - 5375
+    - 5400
+    - 5405
     ys:
     - 0
     - -5
     - 0
     - 0
-    - -2
-    - -10
-    - -10
+    - -5
+    - -5
     - -14
     - -17
-    - -17
-    - -19
-    - -24
-    - -29
     - -31
-    - -36
+    - -38
+    - -43
     - -46
-    - -48
-    - -48
-    - -50
-    - -62
-    - -65
+    - -53
+    - -55
     - -70
-    - -74
-    - -89
-    - -94
-    - -101
-    - -101
-    - -106
+    - -77
+    - -80
+    - -96
+    - -108
     - -110
+    - -125
+    - -127
+    - -132
+    - -151
+    - -156
+    - -168
+    - -175
+    - -202
+    - -209
+    - -226
+    - -240
+    - -240
     - 0
     abbr: dyn
 - duration: 7560
