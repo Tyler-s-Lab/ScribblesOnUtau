@@ -13637,11 +13637,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 15360
     duration: 720
-    tone: 60
+    tone: 59
     lyric: ら
     pitch:
       data:
-      - {x: -40, y: 0, shape: io}
+      - {x: -40, y: 10, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13793,11 +13793,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 23040
     duration: 720
-    tone: 60
+    tone: 59
     lyric: ら
     pitch:
       data:
-      - {x: -40, y: 0, shape: io}
+      - {x: -40, y: 10, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13829,11 +13829,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 25920
     duration: 480
-    tone: 68
+    tone: 65
     lyric: ら
     pitch:
       data:
-      - {x: -40, y: -10, shape: io}
+      - {x: -40, y: 20, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13841,7 +13841,7 @@ voice_parts:
     phoneme_overrides: []
   - position: 26400
     duration: 480
-    tone: 70
+    tone: 67
     lyric: る
     pitch:
       data:
@@ -13857,7 +13857,7 @@ voice_parts:
     lyric: ら
     pitch:
       data:
-      - {x: -40, y: -20, shape: io}
+      - {x: -40, y: -50, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13865,11 +13865,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 27360
     duration: 480
-    tone: 75
+    tone: 74
     lyric: り
     pitch:
       data:
-      - {x: -40, y: -30, shape: io}
+      - {x: -40, y: -20, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13881,7 +13881,7 @@ voice_parts:
     lyric: ら
     pitch:
       data:
-      - {x: -40, y: 0, shape: io}
+      - {x: -40, y: -10, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 0, period: 175, depth: 25, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
@@ -13913,11 +13913,11 @@ voice_parts:
     phoneme_overrides: []
   - position: 30720
     duration: 960
-    tone: 68
+    tone: 71
     lyric: a
     pitch:
       data:
-      - {x: -67.934784, y: 70, shape: io}
+      - {x: -67.934784, y: 40, shape: io}
       - {x: 40, y: 0, shape: io}
       snap_first: true
     vibrato: {length: 82.8125, period: 182.97101, depth: 5, in: 10, out: 10, shift: 0, drift: 0, vol_link: 0}
